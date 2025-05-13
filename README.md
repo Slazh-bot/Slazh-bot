@@ -1,3 +1,3 @@
-- 👋 Hi Fahri
+- 👋 Hi my name is Fahri
 - 👀 I’m interested in sleep
-- 🌱 I’m currently learning cs
+- 🌱 I’m currently learning js
